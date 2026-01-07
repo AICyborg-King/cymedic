@@ -1,0 +1,7 @@
+{
+  "name": "Cymedic AI",
+  "description": "Next-generation healthcare agency platform with real-time AI voice assistance.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
